@@ -1,0 +1,9 @@
+3-
+public static void main(String[] args) {
+        
+        String nome1 = "anna";
+        String nome2 = "nicolas";
+        
+        boolean iguais = nome1.equals(nome2);
+        System.out.println(iguais);
+    }
